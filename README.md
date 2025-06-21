@@ -1,5 +1,4 @@
 # Just Another Random Unity Inventory System
-This is my first attempt at creating and improving upon an Inventory System in Unity
 
 This is an Inventory System made in a few hours in Unity by following a tutorial and improving (or attempting to) upon it, will add some info on how to use it in case you want to later
 
